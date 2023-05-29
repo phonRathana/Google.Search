@@ -1,10 +1,11 @@
 # Google.Search
 <!DOCTYPE html>
 <html lang="en">
-  <head><footer></footer>
-    </head><haed>
+  <head>
+    <footer></footer>
+        </head><haed>
               </head><haed>
-    ( hello the world )   
+     ( hello the world )   
    <meta charset="utf-8">
   <script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM
    link ="https://Rathana-phoneshop1-business-development-service.business.site    
