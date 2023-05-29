@@ -2,7 +2,7 @@
 argin: 0
 
 
-htsl. body (
+html. body (
   height: 100%
 
 
@@ -104,3 +104,34 @@ body {
 .profile-trigger Ing
   Width: 40pix
   border-radius: 100%
+}
+
+
+.html body (
+ height: 100%
+
+}
+ .body {
+   font-family: Huboto, sans-serif;
+   display: Tex
+   flex-direction: column:
+}
+
+.top-bar {
+  display: flex
+  align-iters: 20pix 30pix:
+}
+.content (
+  flex: 1: 
+  display: flex:
+  flex-direction: column:
+  align-ites: center
+  justify-content: center;
+}
+bar-left {
+ display: flex:
+ align-items: center; 
+}
+
+.bar-right {
+  margin-left: outo;
