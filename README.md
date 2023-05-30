@@ -1,12 +1,12 @@
-# Google-
+# Google-Search.
 <!DOCTYPE html>
 <html lang="en">
   <head><footer></footer>
     </head><haed>
               </head><haed>
     ( hello the world )   
-   <meta charset="utf-8">
-  <script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM
+ <meta charset="utf-8">
+  <script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM ll)
    link ="https://Rathana-phoneshop1-business-development-service.business.site    
 <meta name="gongle-signin-client-id" content="google-site-verification: googlee9c9e70123469956.      "mobilesdk_app_id":
       1:244145628679:android:a7f10297db1a854b396ca2",         "android_client_info": {apps.googleusercontent.com">
@@ -21,7 +21,7 @@ to property="og:type" content="website"meta name="theme-color" wm #039be5meta ch
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
     <link rel="apple-touch-icon" href="https:/  //files?/971938/favicon/favicon.png?v=528721588"/>
- <meta name="theme-color" content="#FFFFFF">
+<meta name="theme-color" content="#FFFFFF">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum
 <meta name="title" content="Rathana phone Shop1 in  Phnom Penh">
 <meta name="description" content="Business As a loyal partner sell technology">
@@ -65,7 +65,7 @@ to property="og:type" content="website"meta name="theme-color" wm #039be5meta ch
 							Or
 							<br>
 							Use our
-							<a                                                                                          href="https://play.google.com/store/apps/details?id=https://Rathana-phoneshop1-business-development-service.business.site .websitesapp" class="btn btn-outline-primary" target="_blank">								Website.https://Rathana-phoneshop1-business-development-service.business.site   App
+							<a                                                                                          href="https://play.google.com/store/apps/details?id=https://Rathana-phoneshop1-business-development-service.business.site .websitesapp" class="btn btn-outline-primary" target="_blank">								Website.https://Rathana-phoneshop1-business-development-service.business.site/App
 							</a> <i class="fab fa-android"></i>
 						</div>
 					</div>
